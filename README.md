@@ -5,7 +5,7 @@ Info
 -----------
 You can easly create a Dropdown Attribute Value form the Product Edit.
 
-!(https://raw.githubusercontent.com/mageprofis/MageProfis_SimpleAttributeOption/master/docs/info.png)
+![Sample](https://raw.githubusercontent.com/mageprofis/MageProfis_SimpleAttributeOption/master/docs/info.png "Sample")
 
 Attention
 ------------
