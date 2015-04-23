@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!--
+/**
+  * MageProfis_SimpleAttributeOption
+  *
+  * @category  MageProfis
+  * @package   MageProfis_SimpleAttributeOption
+  * @author    Mathis Klooss <mathis@mage-profis.de>
+  * @copyright 2015 Mage-Profis GmbH (http://www.mage-profis.de/). All rights served.
+  * @license   https://github.com/mklooss/MageProfis_SimpleAttributeOption/blob/master/README.md
+  */
+//-->
+<config>
+    <modules>
+        <MageProfis_SimpleAttributeOption>
+            <active>true</active>
+            <codePool>community</codePool>
+        </MageProfis_SimpleAttributeOption>
+    </modules>
+</config>
